@@ -1,0 +1,17 @@
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Application.deps.json
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Application.runtimeconfig.json
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Application.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Application.pdb
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Domain.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/bin/Debug/net6.0/CallCenterAPI.Domain.pdb
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.csproj.AssemblyReference.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.AssemblyInfoInputs.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.AssemblyInfo.cs
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.csproj.CopyComplete
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/refint/CallCenterAPI.Application.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.pdb
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/CallCenterAPI.Application.genruntimeconfig.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Core/CallCenterAPI.Application/obj/Debug/net6.0/ref/CallCenterAPI.Application.dll

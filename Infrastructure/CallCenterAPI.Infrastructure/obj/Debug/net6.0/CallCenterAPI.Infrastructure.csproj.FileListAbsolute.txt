@@ -1,0 +1,12 @@
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/bin/Debug/net6.0/CallCenterAPI.Infrastructure.deps.json
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/bin/Debug/net6.0/CallCenterAPI.Infrastructure.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/bin/Debug/net6.0/CallCenterAPI.Infrastructure.pdb
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.AssemblyInfo.cs
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/refint/CallCenterAPI.Infrastructure.dll
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/CallCenterAPI.Infrastructure.pdb
+/Users/denizyilmaz/Desktop/CallCenter Project/CallCenterAPI/Infrastructure/CallCenterAPI.Infrastructure/obj/Debug/net6.0/ref/CallCenterAPI.Infrastructure.dll
